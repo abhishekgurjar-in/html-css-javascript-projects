@@ -1,0 +1,112 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 16px;
+  background-color: hsl(202, 86%, 94%);
+}
+
+.container {
+  margin: auto;
+  max-width: 1440px;
+  background-color: hsl(202, 86%, 94%);
+}
+
+.box {
+  border-radius: 20px;
+  background-color: whitesmoke;
+  max-width: 900px;
+  margin-inline: auto;
+  margin-top: 160px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.left-box {
+  width: 50%;
+}
+
+.title {
+  margin: 10px;
+  width: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.first-box {
+  margin: 10px;
+}
+
+.box-middle {
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.box-last {
+  margin: 10px;
+}
+
+.option {
+  color: black;
+  margin: 10px;
+  padding: 5px;
+  border: 2px solid black;
+  border-radius: 4px;
+  width: 80%;
+}
+
+.calculate {
+  background-color: yellow;
+  width: 50%;
+  border-radius: 8px;
+  height: 2.5rem;
+  margin: 15px;
+}
+
+.input-box {
+  width: 80%;
+  border: 1px solid black;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+}
+
+.input-box span {
+  width: 20px;
+}
+
+.input-box input {
+  width: 70%;
+  height: 100%;
+  border: none;
+}
+
+.right-box {
+  width: 50%;
+  border-radius: 20px;
+}
+
+.empty-result {
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 20px;
+  border-top-right-radius: 20px;
+  padding: 10px;
+  color: white;
+  background-color: #1b3547;
+}
+
+.filled-result {
+  display: none;
+}
+
+.footer {
+  margin-top: 100px;
+  text-align: center;
+}
