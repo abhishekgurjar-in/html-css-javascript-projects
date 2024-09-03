@@ -41,8 +41,8 @@ Welcome to my collection of HTML, CSS, and JavaScript projects. This repository 
 10. **[FAQ Accordion](https://github.com/abhishekgurjar-in/faq-accordion)**
     - Code: [View Code](https://github.com/abhishekgurjar-in/faq-accordion)
 
-11. **[Flip Coin](https://github.com/abhishekgurjar-in/flipcoin)**
-    - Code: [View Code](https://github.com/abhishekgurjar-in/flipcoin)
+11. **[Flip Coin](https://github.com/abhishekgurjar-in/Flip-Coin)**
+    - Code: [View Code](https://github.com/abhishekgurjar-in/Flip-Coin)
 
 12. **[Focus on Day](https://github.com/abhishekgurjar-in/focus-on-day)**
     - Code: [View Code](https://github.com/abhishekgurjar-in/focus-on-day)
