@@ -1,0 +1,103 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Inter, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 100%;
+  height: 90vh;
+  background: url(./images/pattern-curve.svg) no-repeat fixed left bottom;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box-1 {
+  width: 70%;
+  height: 70%;
+  background-color: transparent;
+  display: none; /* Hide all testimonials initially */
+}
+
+#testimonial-1 {
+  display: flex; /* Display the first testimonial */
+}
+
+.text {
+  width: 50%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  background: url(./images/pattern-quotes.svg) no-repeat center top;
+}
+
+.text h1 {
+  color: #595969;
+  margin-inline: 40px;
+  margin-top: 60px;
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.name {
+  margin-inline: 40px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.name h3 {
+  font-size: 18px;
+}
+
+.name h4 {
+  color: #babacf;
+  font-size: 18px;
+}
+
+.image {
+  width: 50%;
+  background: url(./images/pattern-bg.svg) no-repeat right;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.image img {
+  width: 90%;
+  height: 90%;
+  border-radius: 10px;
+}
+
+.button {
+  margin-top: 550px;
+  margin-left: 20px;
+  padding-inline: 20px;
+  padding-block: 14px;
+  position: absolute;
+  background-color: white;
+  border-radius: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 25px;
+  box-shadow: 0 0 8px 0px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+
+.button img {
+  width: 50%;
+  color: white;
+}
+
+.footer {
+  margin: 20px;
+  text-align: center;
+}
