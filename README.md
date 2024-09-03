@@ -14,8 +14,8 @@ Welcome to my collection of HTML, CSS, and JavaScript projects. This repository 
 1. **[Abhi ki News](https://github.com/abhishekgurjar-in/abhi-ki-news)**
    - Code: [View Code](https://github.com/abhishekgurjar-in/abhi-ki-news)
 
-2. **[Advice Generator](https://github.com/abhishekgurjar-in/advice-slip-json-api)**
-   - Code: [View Code](https://github.com/abhishekgurjar-in/advice-slip-json-api)
+2. **[Advice Generator](https://github.com/abhishekgurjar-in/Age-Calculator)**
+   - Code: [View Code](https://github.com/abhishekgurjar-in/Age-Calculator)
 
 3. **[Age Calculator](https://github.com/abhishekgurjar-in/age-calculator)**
    - Code: [View Code](https://github.com/abhishekgurjar-in/age-calculator)
@@ -53,11 +53,11 @@ Welcome to my collection of HTML, CSS, and JavaScript projects. This repository 
 14. **[Loan Calculator](https://github.com/abhishekgurjar-in/loan-calculator)**
     - Code: [View Code](https://github.com/abhishekgurjar-in/loan-calculator)
 
-15. **[Login Form](https://github.com/abhishekgurjar-in/loginform)**
-    - Code: [View Code](https://github.com/abhishekgurjar-in/loginform)
+15. **[Login Form](https://github.com/abhishekgurjar-in/Login-Form)**
+    - Code: [View Code](https://github.com/abhishekgurjar-in/Login-Form)
 
-16. **[Month Calendar](https://github.com/abhishekgurjar-in/monthcalendar)**
-    - Code: [View Code](https://github.com/abhishekgurjar-in/monthcalendar)
+16. **[Month Calendar](https://github.com/abhishekgurjar-in/Month-Calendar)**
+    - Code: [View Code](https://github.com/abhishekgurjar-in/Month-Calendar)
 
 17. **[Mortgage Calculator](https://github.com/abhishekgurjar-in/mortgage-calculator)**
     - Code: [View Code](https://github.com/abhishekgurjar-in/mortgage-calculator)
@@ -65,8 +65,8 @@ Welcome to my collection of HTML, CSS, and JavaScript projects. This repository 
 18. **[News Homepage](https://github.com/abhishekgurjar-in/news-homepage)**
     - Code: [View Code](https://github.com/abhishekgurjar-in/news-homepage)
 
-19. **[Newsletter Signup Form](https://github.com/abhishekgurjar-in/newsletter-signup-forms)**
-    - Code: [View Code](https://github.com/abhishekgurjar-in/newsletter-signup-forms)
+19. **[Newsletter Signup Form](https://github.com/abhishekgurjar-in/Newsletter-Signup-Form)**
+    - Code: [View Code](https://github.com/abhishekgurjar-in/Newsletter-Signup-Form)
 
 20. **[Password Generator](https://github.com/abhishekgurjar-in/password-generator)**
     - Code: [View Code](https://github.com/abhishekgurjar-in/password-generator)
@@ -77,8 +77,8 @@ Welcome to my collection of HTML, CSS, and JavaScript projects. This repository 
 22. **[Profile Card](https://github.com/abhishekgurjar-in/profile-card)**
     - Code: [View Code](https://github.com/abhishekgurjar-in/profile-card)
 
-23. **[QR Code Generator](https://github.com/abhishekgurjar-in/qrcode-generator)**
-    - Code: [View Code](https://github.com/abhishekgurjar-in/qrcode-generator)
+23. **[QR Code Generator](https://github.com/abhishekgurjar-in/QR-Code-Generator)**
+    - Code: [View Code](https://github.com/abhishekgurjar-in/QR-Code-Generator)
 
 24. **[Rock Paper Scissors](https://github.com/abhishekgurjar-in/rock-paper-scissors)**
     - Code: [View Code](https://github.com/abhishekgurjar-in/rock-paper-scissors)
@@ -95,11 +95,11 @@ Welcome to my collection of HTML, CSS, and JavaScript projects. This repository 
 28. **[Testimonials Slider](https://github.com/abhishekgurjar-in/testimonials-slider)**
     - Code: [View Code](https://github.com/abhishekgurjar-in/testimonials-slider)
 
-29. **[Text to Speech Generator](https://github.com/abhishekgurjar-in/texttospeech)**
-    - Code: [View Code](https://github.com/abhishekgurjar-in/texttospeech)
+29. **[Text to Speech Generator](https://github.com/abhishekgurjar-in/Text-to-Speech-Generator)**
+    - Code: [View Code](https://github.com/abhishekgurjar-in/Text-to-Speech-Generator)
 
-30. **[Tic-Tac-Toe](https://github.com/abhishekgurjar-in/tictactoe-game)**
-    - Code: [View Code](https://github.com/abhishekgurjar-in/tictactoe-game)
+30. **[Tic-Tac-Toe](https://github.com/abhishekgurjar-in/Tic-Tac-Toe)**
+    - Code: [View Code](https://github.com/abhishekgurjar-in/Tic-Tac-Toe)
 
 31. **[Tip Calculator](https://github.com/abhishekgurjar-in/tip-calculator)**
     - Code: [View Code](https://github.com/abhishekgurjar-in/tip-calculator)
