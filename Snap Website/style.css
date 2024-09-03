@@ -1,0 +1,176 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Epilogue;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1440px;
+  margin: auto;
+}
+
+nav {
+  margin: 20px;
+  width: 88%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  width: 90px;
+}
+
+.header {
+  display: flex;
+  gap: 20px;
+}
+
+.login {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.login button {
+  background-color: rgb(255, 255, 255);
+  border-radius: 15px;
+  padding-inline: 14px;
+  padding-block: 8px;
+  color: gray;
+  border: 1px solid gray;
+  cursor: pointer;
+}
+
+.login button:hover {
+  color: black;
+}
+
+nav p {
+  color: gray;
+  cursor: pointer;
+}
+
+nav p:hover {
+  color: black;
+}
+
+.box {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+  margin: 70px;
+}
+
+.left-box {
+  width: 50%;
+}
+
+.left-box h1 {
+  font-size: 90px;
+}
+
+.left-box p {
+  font-size: 17px;
+}
+
+.left-box button {
+  font-size: 22px;
+  margin-top: 100px;
+  padding: 12px;
+  background-color: black;
+  color: white;
+  border-radius: 19px;
+  cursor: pointer;
+}
+
+.left-box button:hover {
+  background-color: white;
+  color: black;
+}
+
+.right-box img {
+  width: 50%;
+  max-width: 480px;
+}
+
+.client-image {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 80px;
+}
+
+.feature-dropdown {
+  position: fixed;
+  background-color: white;
+  width: 170px;
+  left: 425px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  color: gray;
+  box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.3);
+}
+
+.feature-dropdown p:hover {
+  color: black;
+  cursor: pointer;
+}
+
+.company-dropdown {
+  position: fixed;
+  width: 140px;
+  left: 580px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  color: gray;
+  box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.3);
+}
+
+.company-dropdown p:hover {
+  color: black;
+  cursor: pointer;
+}
+
+.footer {
+  margin: 30px;
+  text-align: center;
+}
+
+@media (max-width: 800px) {
+  .box {
+    flex-direction: column;
+    align-items: center;
+    gap: 100px;
+  }
+
+  nav {
+    align-items: flex-start;
+    gap: 50px;
+  }
+
+  .header {
+    flex-direction: column;
+  }
+
+  .client-image {
+    flex-direction: column;
+    gap: 80px;
+  }
+}
