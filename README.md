@@ -1,6 +1,6 @@
 # HTML, CSS, and JavaScript Projects
 
-Welcome to my collection of HTML, CSS, and JavaScript projects. This repository contains a variety of projects that showcase different aspects of web development. Each project includes its own code repository and, where available, a live demo link.
+Welcome to my collection of HTML, CSS, and JavaScript projects. This repository contains a variety of projects that showcase different aspects of web development. Each project includes its own code repository.
 
 ## Table of Contents
 
