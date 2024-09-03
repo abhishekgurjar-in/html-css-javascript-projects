@@ -142,9 +142,7 @@ Here's a rundown of the projects I've worked on:
     - Calculates the tip amount based on bill and tip percentage.
     - [View Code](https://github.com/abhishekgurjar-in/tip-calculator)
 
-32
-
-. **[Todo List](https://github.com/abhishekgurjar-in/todo-list)**
+32. **[Todo List](https://github.com/abhishekgurjar-in/todo-list)**
     - A simple to-do list application for managing tasks.
     - [View Code](https://github.com/abhishekgurjar-in/todo-list)
 
