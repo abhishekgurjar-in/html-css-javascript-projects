@@ -1,0 +1,87 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+}
+
+.header {
+  font-family: sans-serif;
+  margin: 50px;
+  text-align: center;
+}
+
+#main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  width: 100%;
+  height: 65vh;
+}
+
+#card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  border-radius: 10px;
+  width: 200px;
+  height: 300px;
+  background-color: #ffffff;
+}
+
+#card #img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+  overflow: hidden;
+}
+
+#card #img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+#card p {
+  font-size: 12px;
+  text-align: center;
+  margin: 10px 0;
+  margin-bottom: 10px;
+}
+
+#card #Stranger {
+  color: rgb(151, 22, 22);
+}
+
+#card #Friends {
+  color: green;
+}
+
+#card button {
+  padding: 12px 22px;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+
+#card button.red {
+  background-color: rgb(217, 16, 16);
+}
+
+#card button.blue {
+  background-color: rgb(121, 193, 231);
+}
+
+.footer {
+  margin: 50px;
+  text-align: center;
+}
